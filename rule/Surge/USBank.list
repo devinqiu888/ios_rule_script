@@ -10,6 +10,6 @@ DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,experian.com
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,capitalone.com
-DOMAIN,capitalone-resources.digital-cloud.medallia.com
+DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,intuit.com
