@@ -2,9 +2,9 @@
 # AUTHOR: devinqiu888
 # REPO: https://github.com/devinqiu888/ios_rule_script
 # UPDATED: 2025-03-05 11:04:49
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 5
-# TOTAL: 6
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,experian.com
@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,annualcreditreport.com
 DOMAIN-SUFFIX,experian.com
 DOMAIN-SUFFIX,chase.com
 DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,nr-data.net
